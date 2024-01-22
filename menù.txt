@@ -4,3 +4,9 @@ Antipasti:
 -Sformato Di verdure
 -La classica Caprese
 -Bruschette al pomodoro
+
+PRIMI:
+- Trofie al pesto
+- Spaghetti alla Carbonara
+- Linguine allo scoglio
+- Paccheri all'amatriciana
